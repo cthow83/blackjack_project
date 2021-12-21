@@ -1,5 +1,6 @@
 # blackjack_project
 BBC Developer Project
+
 Simple blackjack project as requested by BBC Software Engineer graduate scheme.
 
 Game runs through to end and can accomodate up to 5 players plus an automated dealer. Based on one deck of 52 cards
